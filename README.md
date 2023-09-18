@@ -11,5 +11,6 @@ Power BI
 Project Dataset :
 From @AlexTheAnalyst.
 
-Here is The Dashboard :![Data Professional Survey  Breakdown PowerBI project](https://github.com/khaoulakhemiri/Data-Professional-Survey-Breakdown-Power-BI-Project/assets/91009947/43af1a17-5eab-4698-b120-928424b41f5f)
+Here is The Dashboard :
 
+![Data Professional Survey  Breakdown PowerBI project (2)](https://github.com/khaoulakhemiri/Data-Professional-Survey-Breakdown-Power-BI-Project/assets/91009947/319659bf-95b3-4f81-9e5e-d821df310e0b)
